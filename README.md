@@ -5,6 +5,6 @@ My first repository
 
 ajoutons un paragraphe
 
-## Locale developpement
+## Local developpement
 
-1. Ouvrir index.html sur le navigateur
+1. Ouvrir index.htm sur le navigateur
