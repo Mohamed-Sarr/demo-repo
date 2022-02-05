@@ -10,3 +10,5 @@ ajoutons un paragraphe
 1. Ouvrir index.html sur le navigateur
 
 2. Maitriser le versionning et le deploiement continue 
+
+3. Je suis comme ça ?
